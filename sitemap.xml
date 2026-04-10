@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://your-website-url.example.com/Project Practice Chart 3.html</loc>
-    <lastmod>2026-04-09T22:09:17.746Z</lastmod>
-  </url>
-  <url>
     <loc>https://your-website-url.example.com/posts/formula-spreadsheet/index.html</loc>
     <lastmod>2026-04-10T18:50:50.180Z</lastmod>
   </url>
@@ -15,9 +11,5 @@
   <url>
     <loc>https://your-website-url.example.com/index.html</loc>
     <lastmod>2026-03-30T18:49:43.101Z</lastmod>
-  </url>
-  <url>
-    <loc>https://your-website-url.example.com/Project Practice Chart 1.html</loc>
-    <lastmod>2026-04-09T22:23:32.198Z</lastmod>
   </url>
 </urlset>
